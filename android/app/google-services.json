@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "483698177803",
+    "firebase_url": "https://artiste.firebaseio.com",
+    "project_id": "artiste",
+    "storage_bucket": "artiste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483698177803:android:912be08e6dd4a54d84140e",
+        "android_client_info": {
+          "package_name": "com.shauryapps.artiste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483698177803-pltia1kfn3242es6dp08d08psbv2vmm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shauryapps.artiste",
+            "certificate_hash": "891b4e1eddee8d0bf8edfd5d9179621b6cc0c2fe"
+          }
+        },
+        {
+          "client_id": "483698177803-kgfajte6ru70uojl7t8pr165cgsfvgoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-N5wNhZKJS0GE8YQl5ktCgF1IL1ae3hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483698177803-kgfajte6ru70uojl7t8pr165cgsfvgoc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483698177803-664nsupvoqrsrnl50ivt9aet162n6eli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shauryapps.artiste"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
